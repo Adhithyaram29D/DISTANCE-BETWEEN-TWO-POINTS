@@ -30,4 +30,4 @@ print("%.2f"%dist)
 ![OUTPUT](./distance.png)
 
 ### RESULT:
-The Program for Finding the distance between two points
+The Program for Finding the distance between two points is successfully executed.
