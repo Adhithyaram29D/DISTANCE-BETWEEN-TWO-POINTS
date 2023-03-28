@@ -8,7 +8,7 @@ Import Math
 ### Step 2:
 Give the list
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![formula](./formula.jpg)
 ### Step 4: 
 Print the solution
 ### Step 5:
