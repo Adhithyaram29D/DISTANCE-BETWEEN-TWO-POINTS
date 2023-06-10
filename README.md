@@ -8,7 +8,7 @@ Import Math
 ### Step 2:
 Give the list
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](./formula.jpg)
+Substitute the values in the distance formula  ![formula](https://github.com/Adhithyaram29D/DISTANCE-BETWEEN-TWO-POINTS/assets/119393540/0d05a560-9b36-479e-93d6-50322fc31b87)
 ### Step 4: 
 Print the solution
 ### Step 5:
